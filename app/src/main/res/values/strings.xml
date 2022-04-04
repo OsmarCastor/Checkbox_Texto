@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="txt_titulo">Conversor de texto</string>
+    <string name="check_nombre">Ingresa tu Nombre ;)</string>
+    <string name="txt_cursiva">Cursiva7</string>
+    <string name="txt_negrita">Negrita</string>
+    <string name="txt_cursivaa" />
+    <string name="txt_cursivabuena">Cursiva</string>
+    <string name="txt_autor">Osmar Castillo</string>
+    <string name="txt_ambos">Ambos</string>
+</resources>
